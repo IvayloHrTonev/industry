@@ -1,0 +1,327 @@
+[weblate]
+project = Odoo translation
+
+[agriculture_shop]
+file_filter = agriculture_shop/i18n/<lang>.po
+source_file = agriculture_shop/i18n/agriculture_shop.pot
+source_lang = en
+type = gettext
+
+[architects]
+file_filter = architects/i18n/<lang>.po
+source_file = architects/i18n/architects.pot
+source_lang = en
+type = gettext
+
+[art_craft]
+file_filter = art_craft/i18n/<lang>.po
+source_file = art_craft/i18n/art_craft.pot
+source_lang = en
+type = gettext
+
+[automobile]
+file_filter = automobile/i18n/<lang>.po
+source_file = automobile/i18n/automobile.pot
+source_lang = en
+type = gettext
+
+[bakery]
+file_filter = bakery/i18n/<lang>.po
+source_file = bakery/i18n/bakery.pot
+source_lang = en
+type = gettext
+
+[bar_industry]
+file_filter = bar_industry/i18n/<lang>.po
+source_file = bar_industry/i18n/bar_industry.pot
+source_lang = en
+type = gettext
+
+[beverage_distributor]
+file_filter = beverage_distributor/i18n/<lang>.po
+source_file = beverage_distributor/i18n/beverage_distributor.pot
+source_lang = en
+type = gettext
+
+[bike_leasing]
+file_filter = bike_leasing/i18n/<lang>.po
+source_file = bike_leasing/i18n/bike_leasing.pot
+source_lang = en
+type = gettext
+
+[billboard_rental]
+file_filter = billboard_rental/i18n/<lang>.po
+source_file = billboard_rental/i18n/billboard_rental.pot
+source_lang = en
+type = gettext
+
+[bookstore]
+file_filter = bookstore/i18n/<lang>.po
+source_file = bookstore/i18n/bookstore.pot
+source_lang = en
+type = gettext
+
+[cake_shop]
+file_filter = cake_shop/i18n/<lang>.po
+source_file = cake_shop/i18n/cake_shop.pot
+source_lang = en
+type = gettext
+
+[certification_organism]
+file_filter = certification_organism/i18n/<lang>.po
+source_file = certification_organism/i18n/certification_organism.pot
+source_lang = en
+type = gettext
+
+[cleaning_services]
+file_filter = cleaning_services/i18n/<lang>.po
+source_file = cleaning_services/i18n/cleaning_services.pot
+source_lang = en
+type = gettext
+
+[clothing_boutique]
+file_filter = clothing_boutique/i18n/<lang>.po
+source_file = clothing_boutique/i18n/clothing_boutique.pot
+source_lang = en
+type = gettext
+
+[coal_petroleum]
+file_filter = coal_petroleum/i18n/<lang>.po
+source_file = coal_petroleum/i18n/coal_petroleum.pot
+source_lang = en
+type = gettext
+
+[condominium]
+file_filter = condominium/i18n/<lang>.po
+source_file = condominium/i18n/condominium.pot
+source_lang = en
+type = gettext
+
+[construction]
+file_filter = construction/i18n/<lang>.po
+source_file = construction/i18n/construction.pot
+source_lang = en
+type = gettext
+
+[corporate_gifts]
+file_filter = corporate_gifts/i18n/<lang>.po
+source_file = corporate_gifts/i18n/corporate_gifts.pot
+source_lang = en
+type = gettext
+
+[custom_furniture]
+file_filter = custom_furniture/i18n/<lang>.po
+source_file = custom_furniture/i18n/custom_furniture.pot
+source_lang = en
+type = gettext
+
+[electrician]
+file_filter = electrician/i18n/<lang>.po
+source_file = electrician/i18n/electrician.pot
+source_lang = en
+type = gettext
+
+[electronic_store]
+file_filter = electronic_store/i18n/<lang>.po
+source_file = electronic_store/i18n/electronic_store.pot
+source_lang = en
+type = gettext
+
+[environmental_agency]
+file_filter = environmental_agency/i18n/<lang>.po
+source_file = environmental_agency/i18n/environmental_agency.pot
+source_lang = en
+type = gettext
+
+[eyewear_shop]
+file_filter = eyewear_shop/i18n/<lang>.po
+source_file = eyewear_shop/i18n/eyewear_shop.pot
+source_lang = en
+type = gettext
+
+[fast_food]
+file_filter = fast_food/i18n/<lang>.po
+source_file = fast_food/i18n/fast_food.pot
+source_lang = en
+type = gettext
+
+[fitness]
+file_filter = fitness/i18n/<lang>.po
+source_file = fitness/i18n/fitness.pot
+source_lang = en
+type = gettext
+
+[fmcg_store]
+file_filter = fmcg_store/i18n/<lang>.po
+source_file = fmcg_store/i18n/fmcg_store.pot
+source_lang = en
+type = gettext
+
+[food_trucks]
+file_filter = food_trucks/i18n/<lang>.po
+source_file = food_trucks/i18n/food_trucks.pot
+source_lang = en
+type = gettext
+
+[furniture_store]
+file_filter = furniture_store/i18n/<lang>.po
+source_file = furniture_store/i18n/furniture_store.pot
+source_lang = en
+type = gettext
+
+[gardening]
+file_filter = gardening/i18n/<lang>.po
+source_file = gardening/i18n/gardening.pot
+source_lang = en
+type = gettext
+
+[hair_salon]
+file_filter = hair_salon/i18n/<lang>.po
+source_file = hair_salon/i18n/hair_salon.pot
+source_lang = en
+type = gettext
+
+[handyman]
+file_filter = handyman/i18n/<lang>.po
+source_file = handyman/i18n/handyman.pot
+source_lang = en
+type = gettext
+
+[hardware_shop]
+file_filter = hardware_shop/i18n/<lang>.po
+source_file = hardware_shop/i18n/hardware_shop.pot
+source_lang = en
+type = gettext
+
+[headhunter]
+file_filter = headhunter/i18n/<lang>.po
+source_file = headhunter/i18n/headhunter.pot
+source_lang = en
+type = gettext
+
+[industry_lawyer]
+file_filter = industry_lawyer/i18n/<lang>.po
+source_file = industry_lawyer/i18n/industry_lawyer.pot
+source_lang = en
+type = gettext
+
+[industry_real_estate]
+file_filter = industry_real_estate/i18n/<lang>.po
+source_file = industry_real_estate/i18n/industry_real_estate.pot
+source_lang = en
+type = gettext
+
+[industry_restaurant]
+file_filter = industry_restaurant/i18n/<lang>.po
+source_file = industry_restaurant/i18n/industry_restaurant.pot
+source_lang = en
+type = gettext
+
+[it_hardware]
+file_filter = it_hardware/i18n/<lang>.po
+source_file = it_hardware/i18n/it_hardware.pot
+source_lang = en
+type = gettext
+
+[marketing_agency]
+file_filter = marketing_agency/i18n/<lang>.po
+source_file = marketing_agency/i18n/marketing_agency.pot
+source_lang = en
+type = gettext
+
+[micro_brewery]
+file_filter = micro_brewery/i18n/<lang>.po
+source_file = micro_brewery/i18n/micro_brewery.pot
+source_lang = en
+type = gettext
+
+[non_profit_organization]
+file_filter = non_profit_organization/i18n/<lang>.po
+source_file = non_profit_organization/i18n/non_profit_organization.pot
+source_lang = en
+type = gettext
+
+[odoo_partner]
+file_filter = odoo_partner/i18n/<lang>.po
+source_file = odoo_partner/i18n/odoo_partner.pot
+source_lang = en
+type = gettext
+
+[outdoor_activities]
+file_filter = outdoor_activities/i18n/<lang>.po
+source_file = outdoor_activities/i18n/outdoor_activities.pot
+source_lang = en
+type = gettext
+
+[personal_trainer]
+file_filter = personal_trainer/i18n/<lang>.po
+source_file = personal_trainer/i18n/personal_trainer.pot
+source_lang = en
+type = gettext
+
+[pharmacy_retail]
+file_filter = pharmacy_retail/i18n/<lang>.po
+source_file = pharmacy_retail/i18n/pharmacy_retail.pot
+source_lang = en
+type = gettext
+
+[photography]
+file_filter = photography/i18n/<lang>.po
+source_file = photography/i18n/photography.pot
+source_lang = en
+type = gettext
+
+[shoe_maker]
+file_filter = shoe_maker/i18n/<lang>.po
+source_file = shoe_maker/i18n/shoe_maker.pot
+source_lang = en
+type = gettext
+
+[software_reseller]
+file_filter = software_reseller/i18n/<lang>.po
+source_file = software_reseller/i18n/software_reseller.pot
+source_lang = en
+type = gettext
+
+[solar_installation]
+file_filter = solar_installation/i18n/<lang>.po
+source_file = solar_installation/i18n/solar_installation.pot
+source_lang = en
+type = gettext
+
+[sports_club]
+file_filter = sports_club/i18n/<lang>.po
+source_file = sports_club/i18n/sports_club.pot
+source_lang = en
+type = gettext
+
+[surveyor]
+file_filter = surveyor/i18n/<lang>.po
+source_file = surveyor/i18n/surveyor.pot
+source_lang = en
+type = gettext
+
+[tattoo_shop]
+file_filter = tattoo_shop/i18n/<lang>.po
+source_file = tattoo_shop/i18n/tattoo_shop.pot
+source_lang = en
+type = gettext
+
+[toy_store]
+file_filter = toy_store/i18n/<lang>.po
+source_file = toy_store/i18n/toy_store.pot
+source_lang = en
+type = gettext
+
+[wedding_planner]
+file_filter = wedding_planner/i18n/<lang>.po
+source_file = wedding_planner/i18n/wedding_planner.pot
+source_lang = en
+type = gettext
+
+[wellness_practitioner]
+file_filter = wellness_practitioner/i18n/<lang>.po
+source_file = wellness_practitioner/i18n/wellness_practitioner.pot
+source_lang = en
+type = gettext
+
