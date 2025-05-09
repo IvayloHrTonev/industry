@@ -1,5 +1,5 @@
 [weblate]
-project = Odoo translation
+project = Odoo 18
 
 [agriculture_shop]
 file_filter = agriculture_shop/i18n/<lang>.po
